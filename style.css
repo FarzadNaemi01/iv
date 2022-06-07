@@ -1,0 +1,152 @@
+body {
+  background-color: #F2F2F2;
+  font-family:'Comic Neue', cursive;
+  font-size: 17px;
+
+}
+.top{
+  background-color: #F7F7F7;
+  font-family:'Comic Neue', cursive;
+  font-size: 17px;
+}
+
+#name{
+  margin-left: 550px;
+}
+#p {
+  margin:  650px;
+}
+
+
+#img {
+ margin-left: 320px;
+}
+
+.first{
+  margin-left:250px;
+  padding-bottom: 100px;
+
+}
+
+.second{
+  margin-left: 200px;
+}
+hr{
+  background-color: #F2F2F2;
+  border-top:dotted;
+  border-bottom:none;
+  border-right: none;
+  border-left: none;
+  border-color: grey;
+  width: 8%;
+  height: 4.5px;
+  border-width: 8px;
+  margin-top:60px;
+  margin-bottom: 60px;
+  }
+
+.fact{
+  margin-left:370px;
+}
+
+#wings{
+  height:100px;
+  width: 112px;
+  margin-left: 175px;
+  margin-top: 10px;
+  padding: 20px;
+}
+#one {
+  margin-left: 225px;
+}
+#su {
+  height: 100px;
+  width: 100px;
+  margin-left: 625px;
+}
+.skill-row {
+  line-height: 2;
+    margin-left: 200px;
+}
+.table {
+  width: 45%;
+  height: 160PX;
+    text-align: left;
+  width: 160PX;
+  margin-right:30px;
+  float: left;
+}
+.intron{
+  width: 34%;
+  text-align: center;
+  margin-left: 122px;
+}
+.intro{
+  width: 34%;
+  text-align: center;
+  margin-left: 115px;
+}
+
+.in {
+  margin-left: 430px;
+  width: 9%;
+  height: 4.5px;
+  border-width: 8px;
+}
+
+.toBeCenter {
+  margin-left: 100px;
+  display: inline;
+}
+.toBeCenterP {
+  padding: 10px;
+}
+
+.time {
+  width: 45%;
+  margin-right:360px;
+  margin-left: 20px;
+  text-align:right;
+  height: 160PX;
+  width: 160PX;
+  float: right;
+
+
+}
+#link {
+  font-size: 45px;
+  margin-bottom: 50px;
+  margin-left: 590px;
+}
+.photo{
+  width: 250px;
+  height: 250px;
+  margin-left: 150px;
+  border-radius: 100%;
+}
+.profile {
+  margin-left: 395px;
+}
+
+#gif{
+  height: 175px;
+  width: 175px;
+  margin-left: 590px;
+}
+.btn {
+  margin: center;
+}
+
+.skill {
+  margin-left: 350px;
+}
+
+.bottom-container{
+  margin-left: 370px;
+}
+.naemi{
+  margin-left: 50px;
+}
+ .copy{
+   margin-left:20px; 
+ }
